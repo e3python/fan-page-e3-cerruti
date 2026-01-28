@@ -1,0 +1,13 @@
+{
+  "name": "html-fan-page-autograder",
+  "version": "1.0.0",
+  "description": "Autograder for Lesson 5 Mini-Project",
+  "main": ".github/scripts/grade.js",
+  "scripts": {
+    "test": "node .github/scripts/grade.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "chalk": "^4.1.2"
+  }
+}
